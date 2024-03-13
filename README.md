@@ -1,4 +1,4 @@
-# pytorch_generic_unet
+# ReadMe
 Generic implementation of pytorch basic and nested unet.
 Certain internal implementation (e.g., hooks) relies on ```fastai```.
 
