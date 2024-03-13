@@ -6,13 +6,13 @@ Certain internal implementation (e.g., hooks) relies on ```fastai```.
 Basic UNet with customizable encoder path:
 
 ```python
-generic_unet.models.BasicUNet
+from generic_unet import BasicUNet
 ```
 
 Nested UNet with customizable encoder and number of nested levels.
 
 ```python
-generic_unet.models.NestedUNet
+from generic_unet import NestedUNet
 ```
 
 # TODO
